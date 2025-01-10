@@ -1,5 +1,11 @@
 # 🚀 LinkLite  
 
+## 🎥 Application Demo Video
+
+![Screenshot (825)](https://github.com/user-attachments/assets/ff354620-c698-47be-b869-aef85249dcf9)
+
+https://www.youtube.com/watch?v=CeMlR5hgRS8
+
 ## 📖 Introduction  
 **LinkLite** is a command-line interface (CLI) application for working with singly linked lists. It allows users to perform various operations like inserting, deleting, searching, and displaying nodes in a linked list. This tool is designed to make learning and experimenting with linked lists easier, especially for beginners in data structures.  
 
